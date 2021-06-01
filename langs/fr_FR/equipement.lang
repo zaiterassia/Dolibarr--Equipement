@@ -1,0 +1,69 @@
+# Copyright (C) 2021 Assia Zaiter <assia.zaiter@exher.fr>
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+#
+# Générique
+#
+
+# Module label 'ModuleEquipementName'
+ModuleEquipementName = Equipement
+# Module description 'ModuleEquipementDesc'
+ModuleEquipementDesc = Module de gestion de parc informatique
+#tab name
+EquipementTabnameDevice = <i class="fa fa-cube"></i> Équipements
+Device =  Équipement
+ListDevice = <i class="fa fa-list"></i> Liste des équipements
+ListOfDevices = Liste des équipements
+NewDevice = <i class="fa fa-plus-square-o" aria-hidden="true"></i> Nouvel équipement
+NewDevices = Nouvel équipement
+newMark = nouvelle marque
+newModel =	nouveau modèle
+nexwOs = nouveau système
+owner = Utilisateur possédant
+OwnedBy = Détenu par
+LinkToThirdParty = Lier à un tiers Dolibarr
+
+#
+# Page de dictionnaire
+#
+equipementDeviceModels = Equipement - marque de l'appareil
+equipementDeviceLabels = Equipement - modèle de l'appreil
+equipementDeviceTypes = Equipement - type de l'appreil
+equipementOsTypes = Equipement - type de système d'exploitation
+
+#
+# Page d'administration
+#
+EquipementSetup = Configuration du module Equipement
+Settings = Réglages
+EquipementSetupPage = Page de configuration du module Equipement
+
+#
+# Page À propos
+#
+About = À propos
+EquipementAbout = À propos de Equipement
+EquipementAboutPage = Page à propos de Equipement
+
+#
+# Page d'exemple
+#
+MyPageName = Nom de ma page
+
+#
+# Box d'exemple
+#
+MyWidget = Mon widget
+MyWidgetDescription = Description de mon widget
