@@ -7,7 +7,7 @@ Description...
 <!--
 ![Screenshot equipement](img/screenshot_equipement.png?raw=true "Equipement"){imgmd}
 -->
-module externe Equipement pour la gestion de parc informatqiue - inventaire
+module externe Equipement pour la gestion de parc informatique - inventaire
 
 Other modules are available on [Dolistore.com](https://www.dolistore.com).
 
