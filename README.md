@@ -1,4 +1,4 @@
-# EQUIPEMENT FOR [DOLIBARR ERP CRM](https://www.dolibarr.org)
+# Module EQUIPEMENT FOR [DOLIBARR ERP CRM](https://www.dolibarr.org)
 
 ## Features
 
@@ -7,6 +7,7 @@ Description...
 <!--
 ![Screenshot equipement](img/screenshot_equipement.png?raw=true "Equipement"){imgmd}
 -->
+module externe Equipement pour la gestion de parc informatqiue - inventaire
 
 Other modules are available on [Dolistore.com](https://www.dolistore.com).
 
@@ -22,7 +23,6 @@ For more informations, see the [translator's documentation](https://wiki.dolibar
 There is a [Transifex project](https://transifex.com/projects/p/dolibarr-module-template) for this module.
 -->
 
-<!--
 
 ## Installation
 
@@ -73,7 +73,6 @@ From your browser:
   - Go to "Setup" -> "Modules"
   - You should now be able to find and enable the module
 
--->
 
 ## Licenses
 
